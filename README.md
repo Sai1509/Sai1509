@@ -8,13 +8,8 @@
 
 
 - 📫 How to reach me Linkedin : https://www.linkedin.com/in/sai-gowtham-21a242130  
--                     Instagram: https://www.instagram.com/saigowtham_1509/__ 
--                     Twitter:https://mobile.twitter.com/SaiGowth49819696...
----
-[twitter]: https://mobile.twitter.com/SaiGowth49819696
-[instagram]: https://www.instagram.com/saigowtham_1509/
-[linkedin]: https://www.linkedin.com/in/sai-gowtham-21a242130
-
+- Instagram: https://www.instagram.com/saigowtham_1509/__ 
+-Twitter:https://mobile.twitter.com/SaiGowth49819696...
 <!---
 Sai1509/Sai1509 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
