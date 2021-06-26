@@ -7,7 +7,7 @@
 - ⚡ I do photoshop, After effects, Premierpro, Davinci resolve for content creation
 
 
-- 📫 How to reach me ...
+- 📫 How to reach me  https://mobile.twitter.com/SaiGowth49819696  ...
 ---
 [twitter]: https://mobile.twitter.com/SaiGowth49819696
 [instagram]: https://www.instagram.com/saigowtham_1509/
