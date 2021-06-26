@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sai Gowtham
 - 🔭 I love to learn and create: Anyone who keeps learning stays young.
-- 🌱 I’m currently learning everything.
+- 🌱 I’m currently learning.
 - 👯 Everything you can imagine is real.
 - 🥅 2021 Goal: Become a data analyst!
 - ⚡ Fun fact: I love to draw and play guitar / piano and i create melodies
