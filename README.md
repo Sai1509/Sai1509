@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning.
 - 👯 Everything you can imagine is real.
 - 🥅 2021 Goal: Become a data analyst!
-- ⚡ Fun fact: I love to draw and play guitar / piano and i create melodies
-- ⚡ I do photoshop, After effects, Premierpro, Davinci resolve for content creation
+- ⚡ Fun fact: I play guitar / piano and I create melodies
+- ⚡ I do photoshop, After effects, Premier pro, Davinci resolve for content creation
 
 
 - 📫 How to reach me Linkedin : https://www.linkedin.com/in/sai-gowtham-21a242130  
