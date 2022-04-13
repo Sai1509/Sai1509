@@ -2,7 +2,7 @@
 - 🔭 I love to learn and create: Anyone who keeps learning stays young.
 - 🌱 I’m currently learning.
 - 👯 Everything you can imagine is real.
-- 🥅 2021 Goal: Become a data analyst!
+- 🥅 2021 Goal: Become a data scientist!
 - ⚡ Fun fact: I play guitar / piano and I create melodies
 - ⚡ I do photoshop, After effects, Premier pro, Davinci resolve for content creation
 
